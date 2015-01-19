@@ -1,9 +1,8 @@
-Origin: travis-g's Cydia Repo
+Origin: travis-g's Repo
 Label: travis-g's Repo
 Suite: stable
 Version: 1.0
 Codename: zebras
 Architectures: iphoneos-arm
 Components: main
-Description: Repo via Travis Grammer for little themes/backups
-
+Description: Repo for little themes/backups
