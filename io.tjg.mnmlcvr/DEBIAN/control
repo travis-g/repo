@@ -9,4 +9,4 @@ Homepage: http://travis-g.deviantart.com/art/release-mod-mnml-cvr-485435541
 Maintainer: /u/travis-g <travisjgrammer@gmail.com>
 Author: /u/travis-g <travisjgrammer@gmail.com>
 Section: CustomCover
-Depends: firmware (>=7.0), customcover
+Depends: firmware (>=7.0)
