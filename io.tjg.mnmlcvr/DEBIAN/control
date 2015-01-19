@@ -3,8 +3,10 @@ Name: mnml cvr
 Version: 1.0
 Architecture: iphoneos-arm
 Description: A minimal CustomCover cover
-Depiction: http://repo.tjg.io/info/mnml_cvr.html
-Homepage: http://repo.tjg.io
-Maintainer: Travis Grammer </u/travis-g>
-Author: Travis Grammer </u/travis-g>
+ A CustomCover theme like <a href="http://www.deviantart.com/deviation/467204990">smpl cvr by torytyler</a>,
+ but more mnml. No shadows, no overlays, no borders; just album artwork.
+Homepage: http://travis-g.deviantart.com/art/release-mod-mnml-cvr-485435541
+Maintainer: /u/travis-g <travisjgrammer@gmail.com>
+Author: /u/travis-g <travisjgrammer@gmail.com>
 Section: CustomCover
+Depends: firmware (>=7.0), customcover
