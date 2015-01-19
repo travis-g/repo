@@ -1,0 +1,10 @@
+Package: io.tjg.mnmlcvr
+Name: mnml cvr
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A minimal CustomCover cover
+Depiction: http://repo.tjg.io/info/mnml_cvr.html
+Homepage: http://repo.tjg.io
+Maintainer: Travis Grammer </u/travis-g>
+Author: Travis Grammer </u/travis-g>
+Section: CustomCover
