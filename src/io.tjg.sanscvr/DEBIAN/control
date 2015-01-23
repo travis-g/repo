@@ -3,8 +3,8 @@ Name: sans cvr
 Version: 1.0
 Architecture: iphoneos-arm
 Description: A color-from-artwork compatible CustomCover
-  CustomCover uses the album artwork image present on the lockscreen when "Colorise from Artwork" or "Artwork as Wallpaper" is enabled. If the artwork is hidden by a different program the option fails and the background defaults to the lockscreen wallpaper. This CustomCover allows both options to work successfully while still hiding the artwork.
-Maintainer: /u/travis-g <travisjgrammer@gmail.com>
-Author: /u/travis-g <travisjgrammer@gmail.com>
+Depiction: http://repo.tjg.io/depiction/io.tjg.sanscvr.html
+Maintainer: /u/Travis-g <travisjgrammer@gmail.com>
+Author: /u/Travis-g <travisjgrammer@gmail.com>
 Section: CustomCover
 Depends: firmware (>=7.0)

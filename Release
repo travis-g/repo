@@ -1,8 +1,8 @@
-Origin: /u/Travis-g's Repo
-Label: /u/Travis-g's Repo
+Origin: Travis-g's Repo
+Label: Travis-g's Repo
 Suite: stable
 Version: 1.0
 Codename: zebras
 Architectures: iphoneos-arm
 Components: main
-Description: Repo for little themes/backups maintained by /u/travis-g
+Description: Repo for little themes maintained by /u/Travis-g
