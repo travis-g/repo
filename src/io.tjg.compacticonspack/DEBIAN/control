@@ -1,0 +1,10 @@
+Package: io.tjg.compacticonspack
+Name: Compacticons Pack
+Version: 0.9.0
+Architecture: iphoneos-arm
+Description: Compacticons for Polus!
+Depiction: http://repo.tjg.io/depiction/io.tjg.compacticonspack.html
+Maintainer: /u/Travis-g
+Author: /u/Travis-g
+Section: Polus
+Depends: firmware (>=7.0), com.a3tweaks.polus
