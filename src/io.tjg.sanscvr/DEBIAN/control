@@ -4,7 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: A color-from-artwork compatible CustomCover
 Depiction: http://repo.tjg.io/depiction/io.tjg.sanscvr.html
-Maintainer: /u/Travis-g <travisjgrammer@gmail.com>
-Author: /u/Travis-g <travisjgrammer@gmail.com>
+Maintainer: /u/Travis-g
+Author: /u/Travis-g
 Section: CustomCover
 Depends: firmware (>=7.0)
