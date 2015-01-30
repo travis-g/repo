@@ -1,0 +1,10 @@
+Package: io.tjg.ncdots
+Name: NCDots Theme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple dots for notification icons
+Depiction: http://repo.tjg.io/depiction/io.tjg.ncdots.html
+Maintainer: /u/Travis-g
+Author: /u/Travis-g
+Section: Winterboard
+Depends: firmware (>=7.0), winterboard

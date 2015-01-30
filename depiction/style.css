@@ -229,6 +229,10 @@ footer :last-child {
   display:none
 }
 
+.cydia #open {
+  display:none
+}
+
 @media (min-width:708px) {
 #about {
   margin-left:0;
