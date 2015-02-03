@@ -1,6 +1,6 @@
 Package: io.tjg.ncdots
 Name: NCDots Theme
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Simple dots for notification icons
 Depiction: http://repo.tjg.io/depiction/io.tjg.ncdots.html
