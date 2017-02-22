@@ -1,0 +1,10 @@
+Package: io.tjg.originalfonts10emoji
+Name: Original Fonts iOS 10.x - Emoji
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Backup Emoji font package for iOS 10.x
+Depiction: http://repo.tjg.io/depiction/io.tjg.originalfonts10emoji.html
+Maintainer: /u/Travis-g
+Author: /u/Travis-g
+Section: Bytafont
+Depends: firmware (>=10.0)
