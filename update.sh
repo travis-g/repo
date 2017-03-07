@@ -1,5 +1,8 @@
 #!/bin/sh
 
+export COPYFILE_DISABLE
+export COPY_EXTENDED_ATTRIBUTES_DISABLE
+
 ./purge.sh
 ./packages.sh
 
